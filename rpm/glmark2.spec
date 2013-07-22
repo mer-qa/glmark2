@@ -1,6 +1,6 @@
 Name:           glmark2
 Summary:        Wayland GL ES2 performance test tool
-Version:        2012.12.20130704
+Version:        2012.12.20130722
 Release:        1
 Group:          Development/Tools
 License:        GPLv3 and MIT
