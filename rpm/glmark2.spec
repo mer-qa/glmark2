@@ -6,7 +6,6 @@ Group:          Development/Tools
 License:        GPLv3 and MIT
 Source0:        %{name}-%{version}.tar.gz
 URL:            http://code.launchpad.net/glmark2
-BuildRequires:  mesa-llvmpipe-libGL-devel
 BuildRequires:  mesa-llvmpipe-libEGL-devel
 BuildRequires:  mesa-llvmpipe-libGLESv2-devel
 BuildRequires:  pkgconfig(libpng)
